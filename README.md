@@ -5,8 +5,9 @@
 
 ## I'm a Student, Developer, Cloud Enthusiast
 - 🔭 Went to Medi-Caps University, Indore, India.
-- 🌱 I’m currently studying Master's in Applied Computer Science from Dalhosuie University, Halifax, Canada.
-- 👯 I'm looking for co-ops or full-time jobs beginning in January 2024.
+- 📖 Currently studying Master's in Applied Computer Science from Dalhosuie University, Halifax, Canada.
+- 🚀 It interests me to learn more about Cloud Computing.
+- 😃 I'm looking for co-ops or full-time jobs beginning in January 2024.
 
 ### Connect with me:
 
