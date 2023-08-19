@@ -3,11 +3,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Taran05" alt="Taran05" /> </p>
 
-## I'm a Student, Developer, Geek
-- 🔭 Went to Medi-Caps University
-- 🌱 I’m currently learning everything 
-- 👯 I’m looking to collaborate with other creators
-- 🥅 2022 Goals: Contribute more to Open Source projects
+## I'm a Student, Developer, Cloud Enthusiast
+- 🔭 Went to Medi-Caps University, Indore, India.
+- 🌱 I’m currently studying Master's in Applied Computer Science from Dalhosuie University, Halifax, Canada.
+- 👯 I'm looking for co-ops or full-time jobs beginning in January 2024.
 
 ### Connect with me:
 
@@ -17,6 +16,7 @@
 
 ### Languages and Tools:
 
+<img align="left" alt="IntelliJ IDEA" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/intellij/intellij.png" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
